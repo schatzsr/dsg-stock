@@ -1,7 +1,7 @@
 # dsg-stock
 _A product of late-night curiosity._
 
-Small tool to query Dick's Sporting Goods' API based on a product's SKU. 
+Small tool written in Python 3.7 to query Dick's Sporting Goods' API based on a product's SKU. 
 
 Fitness equipment is scarce during the Covid pandemic. 
 Products go out of stock quickly and DSG's store-search on their site isn't too great.
